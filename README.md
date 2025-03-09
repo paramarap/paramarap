@@ -1,4 +1,4 @@
-# **Hi there and welcome, my name is Param Patel!**
+# **Hi there and welcome,  my name is Param Patel!**
 
 I'm an aspiring **Financial Analyst** and **Trader** 📈 and am currently studying Financial Analysis and Risk Management (FARM) at the UW 🥕
 
