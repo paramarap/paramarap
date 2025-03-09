@@ -2,7 +2,7 @@
 
 I'm an aspiring **Financial Analyst** and **Trader** 📈 and am currently studying Financial Analysis and Risk Management (FARM) at UWaterloo 🥕
 
-Some of my hobbies include listening to music, drawing, reading, and podcasts
+Some of my hobbies include listening to music, drawing, reading, and podcasts.
 
 **Currently...**
 - Quant Developer & Stock Analyst at Stocks Club 🔮
