@@ -1,4 +1,4 @@
-# **Hi there and welcome,  my name is Param Patel!** &#128075; <!-- 👋 -->
+# **Hi there and welcome,  my name is Param Patel!**<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/parampatel0511/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/param.0511/)
