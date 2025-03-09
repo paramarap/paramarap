@@ -1,6 +1,6 @@
-Hi there and welcome, my name is Param Patel! 👋
+Hi there and welcome, my name is Param Patel!
 
-I'm an aspiring financial analyst and trader 📈💰
+I'm an aspiring financial analyst and trader 📈
 🎓 Studying Financial Analysis and Risk Management (FARM) at the University of Waterloo 🥕
 
 Passionate about finance, markets, and quantitative analysis and always learning new skills in FinTech and AI.
