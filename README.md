@@ -1,4 +1,4 @@
-##Hi there and welcome, my name is Param Patel!
+##Hi there and welcome, my name is Param Patel!##
 
 I'm an aspiring financial analyst and trader 📈
 🎓 Studying Financial Analysis and Risk Management (FARM) at the University of Waterloo 🥕
